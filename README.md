@@ -8,7 +8,7 @@ This repository contains DJI Tello drone's keyboard based remote controller, ima
 ![Drone](drone.jpg)
 
 ### Sample screens that pop up when you start any of the controllers or mapper 
-![Sample controller + mapping screen](screens.jpg)
+![Sample controller + mapping screen](mapping.jpg)
 
 ## Requirements 
 - Drone 
